@@ -1,8 +1,12 @@
-# Nuxt 3 Minimal Starter
+# Nuxt project to fill my profile
 
-Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+The main purpose of this project is to add some project to my repo list
+
+It will probably be a future playground.
 
 ## Setup
+
+(Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.)
 
 Make sure to install the dependencies:
 
